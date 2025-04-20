@@ -1,0 +1,16 @@
+
+venv/
+
+get-pip.py
+__pycache__/
+
+
+*.log
+
+
+.DS_Store
+
+
+.idea/
+
+
